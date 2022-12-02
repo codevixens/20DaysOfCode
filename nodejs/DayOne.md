@@ -22,6 +22,8 @@ Design a database diagram for a vending machine that allows users with a role of
 ### Database Diagram Tool
 https://dbdiagram.io/home
 
+<br/>
+
 ### Database Table Structure
 
 Table: `users`
@@ -35,6 +37,7 @@ Table: `users`
 | `created_at` | timestamp |  |
 | `updated_at` | timestamp |  |
 
+<br/>
 
 Table: `products`
 | Name | Type | Comments |
@@ -47,7 +50,8 @@ Table: `products`
 | `created_at` | timestamp |  |
 | `updated_at` | timestamp |  |
 | `deleted_at` | timestamp |  |
-
+ 
+ <br/>
 
 Table: `deposits`
 | Name | Type | Comments |
