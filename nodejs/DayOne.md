@@ -1,4 +1,5 @@
 ## Day 1
+<img src="https://img.freepik.com/free-vector/cartoon-vending-machines-collection_52683-73161.jpg?w=2000">
 
 ### Goals
 To see how well you can structure a database if given the opportunity.
