@@ -74,4 +74,4 @@ Table: `deposits`
 ### Submitting Your Code
 - When you are finished with creating the webpage, submit the following:
 - Link to the Github repository in the Codevixens Academy slack channel for 20DaysOfCode #Day1
-- Link to a your social media post made of your progress.. If a
+- Link to a your social media post made of your progress.. If any
