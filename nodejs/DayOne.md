@@ -59,4 +59,15 @@ Table: `deposits`
 | `created_at` | timestamp |  |
 | `updated_at` | timestamp |  |
 
+### Technical requirements
+- The name of the Github repository must be Vending Machine Api.
 
+### Nice to have (bonus points)
+- It would be nice to have additional fields to the table models if you may.
+- A readme.md file containing information about the project.
+- Make a post about your progress for Day1 on either Twitter or LinkedIn with the hashtag #Cdv20DaysOfCode.
+
+### Submitting Your Code
+- When you are finished with creating the webpage, submit the following:
+- Link to the Github repository in the Codevixens Academy slack channel for 20DaysOfCode #Day1
+- Link to a your social media post made of your progress.. If a
