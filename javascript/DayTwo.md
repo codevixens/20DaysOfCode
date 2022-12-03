@@ -11,7 +11,7 @@ Add the following features to the gradient site you built for day one’s task:
 - Assign a creative name to each gradient
 
 ### Deadline
-Monday 4th of December 2022, 11pm W.A.T.
+Monday 5th of December 2022, 11pm W.A.T.
 
 ### Instructions
 - The button to add more gradients should open a modal box containing two input fields for the two color codes and a button to save them. 
