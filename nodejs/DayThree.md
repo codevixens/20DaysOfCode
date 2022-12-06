@@ -7,7 +7,7 @@ To see how well you can create technical documents
 Create two technical documents, one for your Day 1 task and the second for your Day 2 task.
 
 ### Deadline
-On or before Thursday 6th of December 2022, 9pm W.A.T.
+On or before Thursday 8th of December 2022, 9pm W.A.T.
 
 ### Instructions
 - Create an account on medium and hashnode.
