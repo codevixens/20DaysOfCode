@@ -7,7 +7,7 @@ To see how well you can create technical documents
 Create a technical document on how to create a gradient changing website.
 
 ### Deadline
-On or before Wednesday 6th of December 2022, 9pm W.A.T.
+On or before Wednesday 7th of December 2022, 9pm W.A.T.
 
 ### Instructions
 - Create an account on medium and hashnode.
