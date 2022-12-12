@@ -1,7 +1,12 @@
 ## Day 6 - 9
 
 ### Goals
-To see how well you can refactor a codebase.
+Code refactoring is one of the main key terms in software development nowadays. By definition, it is the process of editing and simplifying the software code, without changing its behaviour. Today’s task is to see how well you can refactor a codebase Make sure you read the resources linked below for further reading.
+
+### Why Is Codebase Refactoring Important?
+- https://www.cuelogic.com/blog/what-is-refactoring-and-why-is-it-important
+- https://deventor.io/blog/why-is-refactoring-your-code-important/
+- https://www.ulam.io/blog/why-refactoring-code-important
 
 ### Summary
 Refactor your existing codebase for the challenge you worked on for previous days
