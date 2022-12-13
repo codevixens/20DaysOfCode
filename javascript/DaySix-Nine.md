@@ -1,4 +1,4 @@
-## Day 6 - 9
+## Day Six - Nine
 
 ### Goals
 Code refactoring is one of the main key terms in software development nowadays. By definition, it is the process of editing and simplifying the software code, without changing its behaviour. Today’s task is to see how well you can refactor a codebase Make sure you read the resources linked below for further reading.
