@@ -14,7 +14,7 @@ Knowledge of middlewares and bearer tokens are needed for this task
 1. Create a new branch called `dev-tokenization` in the repository you created for the vending machine API.
 2. Create an additional route called `/api/token/issue`.
 3. The request type to this route will be a **POST** request.
-4. The **POST** request parameters will contain a valid vending machine user’s username and password.
+4. The **POST** request parameters will contain a valid vending machine user’s **username** and **password**.
 5. The route to issue a token should not be protected with a bearer token as this is the entry point to your application.
 6. To access any protected route in your API, a bearer token has to be generated first via the api token issue endpoint after which the generated token is copied and used for future requests.
 7. It is important to note that this token must not always be generated on accessing any protected route but should only be generated once and used for its lifespan period until it expires.
@@ -23,7 +23,8 @@ Knowledge of middlewares and bearer tokens are needed for this task
 ## Returned Response
 The following response should be returned:
 
-<img width="1012" alt="Screenshot 2022-12-26 at 03 30 08" src="https://user-images.githubusercontent.com/82330194/209491922-ce10d8b0-a5af-4c15-a794-8ab8864ecb20.png">
+<img width="1114" alt="Screenshot 2022-12-26 at 03 48 17" src="https://user-images.githubusercontent.com/82330194/209493334-51109859-c3c2-4ce6-9f4b-2c327ea60fea.png">
+
 
 
 ## Technical requirements
