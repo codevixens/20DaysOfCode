@@ -18,6 +18,7 @@ Knowledge of middlewares and bearer tokens are needed for this task
 5. The route to issue a token should not be protected with a bearer token as this is the entry point to your application.
 6. To access any protected route in your API, a bearer token has to be generated first via the api token issue endpoint after which the generated token is copied and used for future requests.
 7. It is important to note that this token must not always be generated on accessing any protected route but should only be generated once and used for its lifespan period until it expires.
+8. Make sure to cater for the following edge cases **(On Invalid token being passed and on no token being passed)**
 
 ## Returned Response
 The following response should be returned:
