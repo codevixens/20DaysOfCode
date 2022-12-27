@@ -2,7 +2,7 @@
 Add edge cases to your Nodejs API
 
 ## Summary
-Secure all admin API routes, this means that any request made to the admin API endpoints won’t go through as the user is does not have enough access.
+Secure all admin API routes, this means that any request made to the admin API endpoints won’t go through as the user does not have enough access.
 
 ## Deadline
 On or before Thursday 28th of December 2022, 11pm W.A.T.
