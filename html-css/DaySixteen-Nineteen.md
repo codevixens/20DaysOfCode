@@ -15,7 +15,7 @@ On or before Thursday 29th of December 2022, 12pm W.A.T.
 
 ## Instructions
 1. In the Github repository you created for your Day 12-15 task, create a new branch
-2. The name of the branch will be dev-survey-form.
+2. The name of the branch will be `dev-survey-form`.
 3. In this new branch created, build a page containing a survey form for this tech idea of yours.
 4. Fill up the survey form page with possible input fields.
 5. Once the webpage is completed, push your changes to Github.
