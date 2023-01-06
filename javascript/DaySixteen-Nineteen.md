@@ -10,10 +10,10 @@ Fetch information of a youtube channel using Youtube’s data API.
 On or before Monday 9th of January 2023, 4pm W.A.T.
 
 ## Instructions
-Create a new branch called pt-4-channel-info in the repository for the Youtube task.
+- Create a new branch called `pt-4-channel-info` in the repository for the Youtube task.
+- Use your youtube API key to fetch the information for our Youtube channel [Codevixens Academy](https://www.youtube.com/@codevixensacademy)
 
 ## Technical requirements
-- Get the needed channel information for Codevixens Academy.
 - The data to be fetched must have a UI similar to what it is that was recommended to be created for the Day 5 task.
 - Fetch as much data as you can that corresponds with the stipulated UI, skip sections that do not have an API endpoint used in fetching its data
 
